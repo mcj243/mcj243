@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mcj243
-- 👀 I’m interested in DevSecOps roles
+- 👀 I’m interested in learning how to get DevSecOps roles
 - 🌱 I’m currently learning from the beginning!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
